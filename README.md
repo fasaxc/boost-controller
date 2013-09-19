@@ -16,6 +16,6 @@ The voltage is adjustable by adjusting the feedback potentiometer.
 Code
 ----
 
-The code is in main.cpp.  I use the avr-gcc and avr-libc toolchain with AVR 
+The code is in main.c.  I use the avr-gcc and avr-libc toolchain with AVR 
 Eclipse.  Lady Ada has an excellent tutorial on setting up the toolchain 
 here: http://www.ladyada.net/learn/avr/.
