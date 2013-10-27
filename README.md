@@ -1,5 +1,5 @@
-Speaker Controller
-==================
+Boost Controller
+================
 
 This repo contains the source code for an AVR-based boost convertor controller.
 It uses fast PWM to control the switch and uses the ADC to read the output
